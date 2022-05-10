@@ -1,0 +1,1 @@
+del /f C:\Users\v22\Downloads\main.jar

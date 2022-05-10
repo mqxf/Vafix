@@ -1,0 +1,1 @@
+javac -cp lib\* src\* -d build\classes && cd build\classes && jar cvfm ..\jars\main.jar ..\..\manifest.txt * && cd ..\.. && java -cp build\jars\*;lib\*;native\windows\* Main

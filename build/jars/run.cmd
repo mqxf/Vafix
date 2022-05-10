@@ -1,0 +1,1 @@
+java -cp C:\Users\v22\Downloads\main.jar;..\..\lib\*;..\..\natives\windows\* Main
